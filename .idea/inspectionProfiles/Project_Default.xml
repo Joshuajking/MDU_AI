@@ -1,0 +1,89 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="66" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="55">
+            <item index="0" class="java.lang.String" itemvalue="MANIFEST" />
+            <item index="1" class="java.lang.String" itemvalue="celerybeat-schedule" />
+            <item index="2" class="java.lang.String" itemvalue="celerybeat.pid" />
+            <item index="3" class="java.lang.String" itemvalue="local_settings.py" />
+            <item index="4" class="java.lang.String" itemvalue="db.sqlite3-journal" />
+            <item index="5" class="java.lang.String" itemvalue="com_crashlytics_export_strings.xml" />
+            <item index="6" class="java.lang.String" itemvalue="db.sqlite3" />
+            <item index="7" class="java.lang.String" itemvalue="media" />
+            <item index="8" class="java.lang.String" itemvalue="dmypy.json" />
+            <item index="9" class="java.lang.String" itemvalue="pip-log.txt" />
+            <item index="10" class="java.lang.String" itemvalue="coverage.xml" />
+            <item index="11" class="java.lang.String" itemvalue="fabric.properties" />
+            <item index="12" class="java.lang.String" itemvalue="atlassian-ide-plugin.xml" />
+            <item index="13" class="java.lang.String" itemvalue="crashlytics-build.properties" />
+            <item index="14" class="java.lang.String" itemvalue="crashlytics.properties" />
+            <item index="15" class="java.lang.String" itemvalue="pip-delete-this-directory.txt" />
+            <item index="16" class="java.lang.String" itemvalue="nosetests.xml" />
+            <item index="17" class="java.lang.String" itemvalue="pyrightconfig.json" />
+            <item index="18" class="java.lang.String" itemvalue="ipython_config.py" />
+            <item index="19" class="java.lang.String" itemvalue="poetry.toml" />
+            <item index="20" class="java.lang.String" itemvalue="pyvenv.cfg" />
+            <item index="21" class="java.lang.String" itemvalue="pip-selfcheck.json" />
+            <item index="22" class="java.lang.String" itemvalue="pathspec" />
+            <item index="23" class="java.lang.String" itemvalue="blessings" />
+            <item index="24" class="java.lang.String" itemvalue="cffi" />
+            <item index="25" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="26" class="java.lang.String" itemvalue="bottle" />
+            <item index="27" class="java.lang.String" itemvalue="pycparser" />
+            <item index="28" class="java.lang.String" itemvalue="torchvision" />
+            <item index="29" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="30" class="java.lang.String" itemvalue="gevent-websocket" />
+            <item index="31" class="java.lang.String" itemvalue="curtsies" />
+            <item index="32" class="java.lang.String" itemvalue="whichcraft" />
+            <item index="33" class="java.lang.String" itemvalue="gevent" />
+            <item index="34" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="35" class="java.lang.String" itemvalue="zope.event" />
+            <item index="36" class="java.lang.String" itemvalue="auto-py-to-exe" />
+            <item index="37" class="java.lang.String" itemvalue="enquiries" />
+            <item index="38" class="java.lang.String" itemvalue="ahk" />
+            <item index="39" class="java.lang.String" itemvalue="ahk-binary" />
+            <item index="40" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="41" class="java.lang.String" itemvalue="torch" />
+            <item index="42" class="java.lang.String" itemvalue="click" />
+            <item index="43" class="java.lang.String" itemvalue="Eel" />
+            <item index="44" class="java.lang.String" itemvalue="cwcwidth" />
+            <item index="45" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="46" class="java.lang.String" itemvalue="future" />
+            <item index="47" class="java.lang.String" itemvalue="pillow" />
+            <item index="48" class="java.lang.String" itemvalue="bottle-websocket" />
+            <item index="49" class="java.lang.String" itemvalue="idna" />
+            <item index="50" class="java.lang.String" itemvalue="zope-event" />
+            <item index="51" class="java.lang.String" itemvalue="zope-interface" />
+            <item index="52" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="53" class="java.lang.String" itemvalue="lazy-loader" />
+            <item index="54" class="java.lang.String" itemvalue="pydantic-core" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E101" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
